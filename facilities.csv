@@ -1,0 +1,6 @@
+Facility ID,Facility Name,Type,Daily Demand,Lat,Lon
+ADMIN_BLOCK,Main Admin Block,Admin,30,9.509870,76.550738
+RB_BLOCK,RB Academic Block,Academic,80,9.510433,76.550386
+GIRLS_HOSTEL,Ladies Hostel,Residential,110,9.511278,76.550442
+BOYS_HOSTEL,Men's Hostel,Residential,120,9.506312,76.549366
+CANTEEN,College Canteen,Utility,90,9.509212,76.550032

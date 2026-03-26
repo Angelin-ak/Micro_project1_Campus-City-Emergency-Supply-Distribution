@@ -1,0 +1,5 @@
+Warehouse ID,Warehouse Name,Daily Capacity,Construction Cost,Operational Cost/Day,Lat,Lon
+WH_CHANGAN,Changanassery Hub,400,300000,800,9.4440,76.5410
+WH_KTYM,Kottayam Town Hub,350,280000,700,9.5916,76.5221
+WH_PUTHU,Puthuppally Warehouse,450,320000,900,9.5620,76.5580
+WH_CHINGA,Chingavanam Hub,300,250000,650,9.5180,76.5120
